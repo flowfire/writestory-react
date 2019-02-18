@@ -1,0 +1,8 @@
+{
+    "ACReactComponentGenerator.global.generateFolder": false,
+    "ACReactComponentGenerator.global.quotes": "double",
+    "ACReactComponentGenerator.indexFile.create": false,
+    "ACReactComponentGenerator.mainFile.extension": "tsx",
+    "ACReactComponentGenerator.styleFile.suffix": "",
+    "ACReactComponentGenerator.styleFile.type": "sass (.scss)"
+}
